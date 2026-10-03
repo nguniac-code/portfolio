@@ -46,7 +46,7 @@ export const projects = [
       "A student project concept exploring how utility meter data can be recorded, organised, and managed.",
     tech: [],
     status: "Concept",
-    repo: null,
+    "https://github.com/nguniac-code/nawec-meter-data-management",
     demo: null,
   },
   {
